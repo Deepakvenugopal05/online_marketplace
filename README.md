@@ -1,4 +1,3 @@
-Sure, here's the updated README file for a Django project without a license:
 
 ---
 
