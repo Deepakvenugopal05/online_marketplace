@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@$m^x8ozy33n!v1%)6v^m*-up8_#g4#&wg$9i^eui*l))10#wc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['online-marketplace-five.vercel.app']
+ALLOWED_HOSTS = ['.vercel.app']
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
